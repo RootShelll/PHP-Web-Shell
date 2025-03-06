@@ -59,12 +59,12 @@ While the PHP Web Shell is a powerful tool for managing server files, it's cruci
 - **IP Whitelisting:** Limit access to specific IP addresses.
 - **SSL/TLS:** Use HTTPS to encrypt data transmitted between the client and server.
 
-<div style="background-color:#fff8e1; border-left:4px solid #fc0; padding:10px; margin:10px 0">
-  <strong>Warning:</strong> Deploying a web shell without proper security measures can expose your server to potential threats. Always ensure that access is tightly controlled and monitored.
-</div>
 ![PHP-Web-Shell](https://raw.githubusercontent.com/RootShelll/PHP-Web-Shell/refs/heads/main/PHP-Web-Shell-v1.png "PHP-Web-Shell")
 ![PHP-Web-Shell](https://raw.githubusercontent.com/RootShelll/PHP-Web-Shell/refs/heads/main/PHP-Web-Shell-v2.png "PHP-Web-Shell")
 
+<div style="background-color:#fff8e1; border-left:4px solid #fc0; padding:10px; margin:10px 0">
+  <strong>Warning:</strong> Deploying a web shell without proper security measures can expose your server to potential threats. Always ensure that access is tightly controlled and monitored.
+</div>
 
 
 ## Conclusion
