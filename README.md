@@ -1,6 +1,3 @@
-Here's how you can structure the content in a `README.md` for GitHub, following markdown syntax and ensuring copyable code blocks, color enhancements, and emojis:
-
-```markdown
 # Mastering PHP Web Shell: A Comprehensive Guide to Server File Management
 
 The **PHP Web Shell** is a straightforward and versatile tool that enables users to manage data on a web server directly through a web interface. It supports a variety of commands such as `ls`, `pwd`, `cd`, `touch`, `rm`, `mkdir`, `rmdir`, **download**, and **upload**, offering a comprehensive set of functionalities for handling files and directories.
