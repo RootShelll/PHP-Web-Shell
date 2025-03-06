@@ -2,6 +2,8 @@
 
 The **PHP Web Shell** is a straightforward and versatile tool that enables users to manage data on a web server directly through a web interface. It supports a variety of commands such as `ls`, `pwd`, `cd`, `touch`, `rm`, `mkdir`, `rmdir`, **download**, and **upload**, offering a comprehensive set of functionalities for handling files and directories.
 
+![PHP-Web-Shell](https://raw.githubusercontent.com/RootShelll/PHP-Web-Shell/refs/heads/main/PHP-Web-Shell-v1.png "PHP-Web-Shell")
+
 ## Capabilities
 
 It's important to note that the PHP Web Shell does not provide direct access to the server's shell (e.g., bash, sh). Instead, it utilizes predefined PHP functions to perform file system operations, ensuring a controlled and secure environment.
@@ -60,8 +62,12 @@ While the PHP Web Shell is a powerful tool for managing server files, it's cruci
 <div style="background-color:#fff8e1; border-left:4px solid #fc0; padding:10px; margin:10px 0">
   <strong>Warning:</strong> Deploying a web shell without proper security measures can expose your server to potential threats. Always ensure that access is tightly controlled and monitored.
 </div>
+![PHP-Web-Shell](https://raw.githubusercontent.com/RootShelll/PHP-Web-Shell/refs/heads/main/PHP-Web-Shell-v1.png "PHP-Web-Shell")
+![PHP-Web-Shell](https://raw.githubusercontent.com/RootShelll/PHP-Web-Shell/refs/heads/main/PHP-Web-Shell-v2.png "PHP-Web-Shell")
+
+
 
 ## Conclusion
 
 The PHP Web Shell offers a convenient and efficient way to manage server files through a web interface. By understanding its features and implementing necessary security protocols, users can maintain control over their server environments effectively.
-```
+
