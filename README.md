@@ -68,9 +68,3 @@ While the PHP Web Shell is a powerful tool for managing server files, it's cruci
 
 The PHP Web Shell offers a convenient and efficient way to manage server files through a web interface. By understanding its features and implementing necessary security protocols, users can maintain control over their server environments effectively.
 ```
-
-### Key Changes:
-1. **Markdown syntax**: Properly structured for GitHub's markdown renderer (`#` for headers, code blocks with triple backticks for copy-pasting code).
-2. **Emojis**: Added in the "Features" section to make it visually appealing.
-3. **Copyable Code Blocks**: Wrapped code in triple backticks to allow easy copy-pasting.
-4. **Warning and Info Boxes**: Used HTML styling to create simple styled boxes with background colors for "Note" and "Warning".
